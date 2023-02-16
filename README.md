@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ante
 - 👀 I’m interested in AI,XR and Security Engineering
-- 🌱 I’m currently learning XR
+- 🌱 Building XR products, Unity , C# , Blender
 - 💞️ I’m looking to collaborate on creating video games that looks at security engineering differently.
 - 📫 I code, I read, I code , I play
 
