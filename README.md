@@ -1,7 +1,7 @@
 # Hello, World! 👋🏻
 
 <div align="center">
-    <img src="URL_TO_YOUR_PROFILE_PICTURE_OR_GIF" alt="Your Name's Photo" width="200">
+    <img src="https://github.com/account" alt="Your Name's Photo" width="200">
 </div>
 
 🎮 I'm **anTe**, a Game Programmer passionate about creating immersive experiences and innovative gameplay mechanics.  
