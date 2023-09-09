@@ -14,18 +14,12 @@
 - **Game Development**: Unity3D 🌌
 - **Programming**: C# ⚙️, Python, C++, Dart
 - **Graphics & Shaders**: OPENGL
-- **Tools & Other**: Git, Plastic SCM, 
+- **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop
 
 ---
-
-## 🚀 Latest Projects
-
-- **[AUHE]**: An application for Autism children. [🔗 Link]
-- **[ROCKS]**: Immerse yourself in an immersive world where you can destroy objects. [🔗 Link]
-
 ---
 
-## 📈 GitHub Stats
+## 📈 
 
 ![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight)
 
@@ -34,7 +28,7 @@
 ## 🌱 Learning & Upcoming
 
 - Diving deeper into `[Unity, Oculus, Unreal Engine]`
-- Exploring `[ DOTS STACK, FLUTTER ]`
+- Exploring `[ DOTS , FLUTTER ]`
 
 ---
 
