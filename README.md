@@ -17,22 +17,15 @@
 - **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop
 
 ---
----
-
-## 📈 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="600" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="1000" />
 
 
 ---
 
 ## 🌱 Learning & Upcoming
-
 - Diving deeper into `[Unity, Oculus, Unreal Engine]`
 - Exploring `[ DOTS , FLUTTER ]`
-
 ---
-
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nwalahnjie-akumawah-51a88b20b)
