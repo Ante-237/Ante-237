@@ -1,7 +1,7 @@
 # Hello, World! 👋🏻
 
 🎮 I'm **anTe**, a Game Programmer passionate about creating immersive experiences and innovative gameplay mechanics.  
-💼 Currently crafting magic at `[MediXR]` | 🌍 Based in `[Kigali, Rwanda]`
+💼 Currently an XR Engineer at `[MediXR]` | 🌍 Based in `[Kigali, Rwanda]`
 
 ---
 
