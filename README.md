@@ -24,6 +24,6 @@
 ---
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nwalahnjie-akumawah-51a88b20b)
-- **Email**: [akumawahanye@gmail.com](mailto:akumawahanye@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nwalahnjie-akumawah-51a88b20b)
+- **Email**: [Gmail](mailto:akumawahanye@gmail.com)
 
