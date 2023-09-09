@@ -4,44 +4,42 @@
     <img src="URL_TO_YOUR_PROFILE_PICTURE_OR_GIF" alt="Your Name's Photo" width="200">
 </div>
 
-🎮 I'm **Your Name**, a Game Programmer passionate about creating immersive experiences and innovative gameplay mechanics.  
-💼 Currently crafting magic at `[Company Name]` | 🌍 Based in `[Your City/Country]`
+🎮 I'm **anTe**, a Game Programmer passionate about creating immersive experiences and innovative gameplay mechanics.  
+💼 Currently crafting magic at `[MediXR]` | 🌍 Based in `[Kigali, Rwanda]`
 
 ---
 
 ## 🕹️ Tech Stack
 
 - **Game Development**: Unity3D 🌌
-- **Programming**: C# ⚙️, `[Other Languages]`
-- **Graphics & Shaders**: `[Specific Tools or Concepts]`
-- **Tools & Other**: Git, `[Other Tools]`
+- **Programming**: C# ⚙️, Python, C++, Dart
+- **Graphics & Shaders**: OPENGL
+- **Tools & Other**: Git, Plastic SCM, 
 
 ---
 
 ## 🚀 Latest Projects
 
-- **[Project Name]**: A brief description about the project. [🔗 Link]
-- **[Another Project]**: Another description here. [🔗 Link]
+- **[AUHE]**: An application for Autism children. [🔗 Link]
+- **[ROCKS]**: Immerse yourself in an immersive world where you can destroy objects. [🔗 Link]
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌱 Learning & Upcoming
 
-- Diving deeper into `[Specific Game Development Area or Tool]`
-- Exploring `[New Concept or Language]`
+- Diving deeper into `[Unity, Oculus, Unreal Engine]`
+- Exploring `[ DOTS STACK, FLUTTER ]`
 
 ---
 
 ## 🤝 Let's Connect
 
-- **Portfolio**: [yourwebsite.com](#)
-- **LinkedIn**: [Your LinkedIn](#)
-- **Twitter**: [@yourhandle](#)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/nwalahnjie-akumawah-51a88b20b)
+- **Email**: [akumawahanye@gmail.com](mailto:akumawahanye@gmail.com)
 
