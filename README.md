@@ -21,7 +21,8 @@
 
 ## 📈 
 
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="600" />
+
 
 ---
 
