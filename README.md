@@ -20,7 +20,7 @@
 
 ## 🌱 Learning & Upcoming
 - Diving deeper into `[Unity, Oculus, Unreal Engine]`
-- Exploring `[ Data Oriented Design , FLUTTER ]`
+- Exploring `[ Data Oriented Design , FLUTTER , VULKAN ]`
 ---
 ## 🤝 Let's Connect
 
