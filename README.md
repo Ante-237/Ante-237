@@ -1,7 +1,6 @@
 # Hello, World! 👋🏻
 
 🎮 I'm **anTe**, a Graphics Programmer passionate about creating immersive experiences and innovative gameplay mechanics.  
-💼 Currently an XR Engineer and Co-Founder at `[MediXR]` | 🌍 Based in `[Kigali, Rwanda]`
 
 ---
 
