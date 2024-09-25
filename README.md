@@ -12,7 +12,7 @@
 - **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="1000" />
+// <img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="1000" />
 
 
 ---
