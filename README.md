@@ -13,7 +13,7 @@
 
 ---
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="1000" /> -->
-https://github.com/user-attachments/assets/3a713213-7a32-47b1-80b9-0526be20dd7a
+<!-- https://github.com/user-attachments/assets/3a713213-7a32-47b1-80b9-0526be20dd7a -->
 
 
 https://github.com/user-attachments/assets/d6e247d1-693f-465b-baaf-1fda412ce520
