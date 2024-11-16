@@ -25,12 +25,15 @@ https://github.com/user-attachments/assets/525f8d62-fa09-4e56-8e9a-59cdfaee6910
 
 
 ---
+## Deployed Game
+MathFrenzy available on playstore.
 
 ## 🌱 Learning & Upcoming
 - Diving deeper into `[Unity, Oculus, Unreal Engine]`
 - Exploring `[ Data Oriented Design , FLUTTER , VULKAN ]`
 ---
 ## 🤝 Let's Connect
+
 
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nwalahnjie-akumawah-51a88b20b)
 - **Email**: [Gmail](mailto:akumawahanye@gmail.com)
