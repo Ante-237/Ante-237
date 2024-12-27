@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/525f8d62-fa09-4e56-8e9a-59cdfaee6910
 MathFrenzy available on playstore.
 
 ## 🌱 Learning & Upcoming
-- Diving deeper into `[Unity, Oculus, Unreal Engine]`
+- Diving deeper into `[Unity, Oculus, Unreal Engine, OpenXR]`
 - Exploring `[ Data Oriented Design , FLUTTER , VULKAN ]`
 ---
 ## 🤝 Let's Connect
