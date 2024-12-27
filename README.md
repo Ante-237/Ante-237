@@ -7,9 +7,9 @@
 ## 🕹️ Tech Stack
 
 - **Game Development**: Unity3D 🌌, Unreal Engine
-- **Programming**: C# ⚙️, C++, Python, Dart
+- **Programming**: C# ⚙️, C++, Python, Dart, javascript
 - **Graphics & Shaders**: OPENGL
-- **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop
+- **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop, cmake
 
 ---
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ante-237&show_icons=true&theme=tokyonight" width="1000" /> -->
