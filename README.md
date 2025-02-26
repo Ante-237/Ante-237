@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/525f8d62-fa09-4e56-8e9a-59cdfaee6910
 ---
 ## Deployed Game
 MathFrenzy available on playstore.
-** TravelRecommendationSite ** : (https://ante-237.github.io/travelbooking.github.io/travelRecommendation/travel_recommendation.htm)
+[TravelRecommendation](https://ante-237.github.io/travelbooking.github.io/travelRecommendation/travel_recommendation.htm)
 
 ## 🌱 Learning & Upcoming
 - Diving deeper into `[Unity, Oculus, Unreal Engine, OpenXR]`
