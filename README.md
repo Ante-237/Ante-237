@@ -7,7 +7,7 @@
 ## 🕹️ Tech Stack
 
 - **Game Development**: Unity3D 🌌, Unreal Engine
-- **Programming**: C# ⚙️, C++, Python, Dart, javascript
+- **Programming**: C# ⚙️, C++, Python, Dart, Javascript [ Node.js, Express.js ]
 - **Graphics & Shaders**: OPENGL
 - **Tools & Other**: Git, Plastic S.C.M., Blender, Photoshop, cmake
 
